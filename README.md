@@ -1,3 +1,1 @@
-# sourcegamesukenglish
-a simple project to make language packs for source games that use british english instead of american english (color --> colour etc.)
-To install for a specific source game just click on the .zip file that has the name of your game as it's suffix
+To install for a specific source game just click on the .zip file that has the name of your game as it's suffix, or alternatively if you want to install all the language packs at once you can go [here](https://github.com/fragmentofgaming/sourcegamesukenglish/releases/tag/releases)
