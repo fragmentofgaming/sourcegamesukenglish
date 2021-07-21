@@ -1,1 +1,2 @@
+This is a simple project aiming to make language packs using British English instead of American English for as many Source Engine games as possible.
 To install for a specific source game just click on the .zip file that has the name of your game as it's suffix, or alternatively if you want to install all the language packs at once you can go [here](https://github.com/fragmentofgaming/sourcegamesukenglish/releases/tag/releases)
